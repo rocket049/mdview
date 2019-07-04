@@ -1,0 +1,12 @@
+github.com/gotk3/gotk3 v0.0.0-20190620081259-6dcdf9e5c51e h1:KFy3swDjmbaSAE6b1iExIgsYt0OkfoLP3HjLm4ifSR8=
+github.com/gotk3/gotk3 v0.0.0-20190620081259-6dcdf9e5c51e/go.mod h1:Eew3QBwAOBTrfFFDmsDE5wZWbcagBL1NUslj1GhRveo=
+github.com/russross/blackfriday v1.5.2 h1:HyvC0ARfnZBqnXwABFeSZHpKvJHJJfPz81GNueLj0oo=
+github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
+github.com/russross/blackfriday v2.0.0+incompatible h1:cBXrhZNUf9C+La9/YpS+UHpUT8YD6Td9ZMSU9APFcsk=
+github.com/russross/blackfriday v2.0.0+incompatible/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
+github.com/shurcooL/sanitized_anchor_name v1.0.0 h1:PdmoCO6wvbs+7yrJyMORt4/BmY5IYyJwS/kOiWx8mHo=
+github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
+github.com/sourcegraph/go-webkit2 v0.0.0-20170811231113-ade305cf91f4 h1:/GZIprdcSTZ1ScZXIb0EYTgCt2izmqDXAKFQGszWbcE=
+github.com/sourcegraph/go-webkit2 v0.0.0-20170811231113-ade305cf91f4/go.mod h1:MeIulxHy//0+TzvJV9+kG4UZCNb8f8WIR/rU2CrnTQI=
+github.com/sqs/gojs v0.0.0-20170522041006-12d0b3282819 h1:wZTkhnqk8Q6VpWMn1NPHZJ/PgE/YRrqctkAXcSgIdDc=
+github.com/sqs/gojs v0.0.0-20170522041006-12d0b3282819/go.mod h1:M7hbdQaz37Cdb0vquiwCsvKKkDCCbKQ+T04iUVtXIqE=
